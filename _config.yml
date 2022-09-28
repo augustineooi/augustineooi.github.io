@@ -7,9 +7,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   M. Sc. Eng., The University of Melbourne
   <br><br>
-  <br>
-  email: augustineooi@gmail.com
   <a href="https://www.linkedin.com/in/augustineooi/">LinkedIn</a> 
+  email: augustineooi@gmail.com
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

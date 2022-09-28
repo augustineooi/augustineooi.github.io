@@ -6,9 +6,16 @@ description: > # your text below (remove <br> elements if you don't need line br
   ModularMaster Data Science, SUTD
   <br>
   M. Sc. Eng., The University of Melbourne
+  <br>
+  CFA Charterholder
   <br><br>
-  <a href="https://www.linkedin.com/in/augustineooi/">LinkedIn</a> 
-  email: augustineooi@gmail.com
+  
+  <a href="https://www.linkedin.com/in/augustineooi/" class="social-icon si-rounded si-small si-linkedin">
+  <i class="icon-linkedin"></i>
+  </a>
+  
+  # <a href="https://www.linkedin.com/in/augustineooi/">LinkedIn</a> 
+  # email: augustineooi@gmail.com
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

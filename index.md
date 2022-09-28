@@ -4,7 +4,9 @@
 
 ### Data Science
 
-[Loan Default Prediction](https://github.com/augustineooi/portfolio_loan_default/blob/35cc81384382f357e7973a6702eb1088fb58a87c/Loan_Default_Prediction_v1.ipynb)
+#### Loan Default Prediction
+
+[![](https://img.shields.io/badge/Jupyter-Open%20Notebook-F37626?logo=Jupyter)](https://github.com/augustineooi/portfolio_loan_default/blob/35cc81384382f357e7973a6702eb1088fb58a87c/Loan_Default_Prediction_v1.ipynb)
 
 - The goal of the project is to identify potential defaulters based on given data about applicants. The dataset used is provided by the fintech firm Home Credit, and includes a myriad of behavioral and  traditional financial data. Some of the key challenges are: (1) large numbers of features - raw data as 120+ features which has the potential to balloon drastically when categorical data is converted to numerical via one-hot encoding), (2) highly imbalanced dataset – ratio of defaulters to non-defaulters are around 1:9, (3) features in the raw dataset is not highly correlated with the target variable.
 

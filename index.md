@@ -49,13 +49,25 @@
 
 ---
 
-### Python Coding
+## Python Coding
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Vehicle Rent Program
+
+[![](https://img.shields.io/badge/Python-See%20Code-3776AB?logo=Python)](https://github.com/augustineooi/python_vehicle_reg/blob/a8a99f7ef9a5379a4e14f86be19f6d26d27c7fdb/Vehicle_Rental.py)
+
+- Implemented a Vehicle Rent Program capable of maintaining reservations for a vehicle rental agency. Designed using object-oriented method and UML diagrams.
+
+<img src="images/python_vehicle_pic.png?raw=true"/>
+
+---
+
+### Tic-Tac-Toe Game
+
+[![](https://img.shields.io/badge/Python-See%20Code-3776AB?logo=Python)](https://github.com/augustineooi/python_tictactoe/blob/c9036e487915e8ed08afefb4b8eb7b8e6c7991a3/TicTacToe_OOI.py)
+
+- Built a tic-tac-toe game for 1 or 2 players. The single-player plays against the AI, which plays the game based on the minimax search algorithm.
+
+<img src="images/python_tictactoe_pic.png?raw=true"/>
 
 ---
 

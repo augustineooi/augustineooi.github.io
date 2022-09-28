@@ -4,7 +4,7 @@
 
 ### Data Science
 
-[Loan Default Prediction](/https://github.com/augustineooi/portfolio_loan_default/blob/6c61bb821d95918000c88b2e6f830c962d98d1c4/Loan_Default_Prediction_v1.ipynb/)
+[Loan Default Prediction](https://github.com/augustineooi/portfolio_loan_default/blob/6c61bb821d95918000c88b2e6f830c962d98d1c4/Loan_Default_Prediction_v1.ipynb)
 Some text
 
 Other text

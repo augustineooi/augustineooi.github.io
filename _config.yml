@@ -1,12 +1,14 @@
 title: Augustine Ooi # your name (or website title) here
 logo: "/images/aooi_profile_pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Science | Data Analytics
+  Investment Professional transitioning into a Data Scientist role
   <br><br>
   ModularMaster Data Science, SUTD
   <br>
   M. Sc. Eng., The University of Melbourne
   <br><br>
+  <br>
+  email: augustineooi@gmail.com
   <a href="https://www.linkedin.com/in/augustineooi/">LinkedIn</a> 
   
 theme: jekyll-theme-minimal

@@ -1,10 +1,10 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Data Science
+## Data Science
 
-#### Loan Default Prediction
+### Loan Default Prediction
 
 [![](https://img.shields.io/badge/Jupyter-Open%20Notebook-F37626?logo=Jupyter)](https://github.com/augustineooi/portfolio_loan_default/blob/35cc81384382f357e7973a6702eb1088fb58a87c/Loan_Default_Prediction_v1.ipynb)
 

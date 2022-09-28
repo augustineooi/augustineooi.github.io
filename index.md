@@ -17,8 +17,21 @@
 <img src="images/loan_default_pic.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Entertainment Engine
+
+[![](https://img.shields.io/badge/Jupyter-Open%20Notebook-F37626?logo=Jupyter)](https://github.com/augustineooi/portfolio_entertainment_engine/blob/711e193e260014274cad5e01cb08927fb1ff44f9/Entertainment_Engine_v1.ipynb)
+
+- The goal of this project is to create a clean dataset that allows for visualizations of contents provided by 4 streaming platforms (Netflix, Amazon Prime, Disney+, Hulu) so that differences can be easily analyzed. A movie recommender is also created which enables the user to see a list of recommended shows and platforms they are on. The visualizations and recommender are aimed to help the user make a more informed decision on which platform to subscribe to.
+
+- As part of data wrangling I aggregated 5 datasets consisting of content information from streaming platforms, and cleaned the data (including unify features of duplicated titles, logical grouping of maturity ratings and genre, one-hot encoding of genres).
+
+-Based on the cleaned dataset came up with visualizations that allows the analysis of difference in platforms (volume of titles offered, genre specialization, proportion of new shows offered, etc).
+
+- For the movie recommender system, I vectorized the features and description of each show content into a format that machines can understand using Term Frequency – Inverse Document Frequency (TF-IDF). I then compared the differences between the different show contents based on the measure of Cosine Similarity. Shows that are highly similar on this measure are recommended to the user.
+
+
+<img src="images/entertainment_engine_pic.png?raw=true"/>
 
 ---
 

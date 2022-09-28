@@ -21,8 +21,18 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Bank Direct Marketing Outcome Prediction
+
+[![](https://img.shields.io/badge/Jupyter-Open%20Notebook-F37626?logo=Jupyter)](https://github.com/augustineooi/portfolio_bank_marketing/blob/d98648a7d0d12f1098b55a5a3d1fa1dead81e4a4/Bank_Marketing_v1.ipynb)
+
+- A supervised classification problem where the goal is to predict if a customer will subscribe to a term deposit based on 20 input features consisting of consumer, marketing campaign and economic data. The data is also highly imbalanced.
+
+- I performed comprehensive EDA to understand important variables, handled missing values using imputation, scaled the features, balanced the data using oversampling with SMOTE, and reduced the dimension of the dataset using PCA. The resulting dataset is fed into Logistic Regression models to predict the effectiveness of a marketing campaign.
+
+- My best model achieved an ROC-AUC of 0.93.
+
+<img src="images/bank_marketing_pic.png?raw=true"/>
 
 ---
 

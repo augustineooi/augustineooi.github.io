@@ -26,7 +26,7 @@
 
 - As part of data wrangling I aggregated 5 datasets consisting of content information from streaming platforms, and cleaned the data (including unify features of duplicated titles, logical grouping of maturity ratings and genre, one-hot encoding of genres).
 
--Based on the cleaned dataset came up with visualizations that allows the analysis of difference in platforms (volume of titles offered, genre specialization, proportion of new shows offered, etc).
+- Based on the cleaned dataset came up with visualizations that allows the analysis of difference in platforms (volume of titles offered, genre specialization, proportion of new shows offered, etc).
 
 - For the movie recommender system, I vectorized the features and description of each show content into a format that machines can understand using Term Frequency – Inverse Document Frequency (TF-IDF). I then compared the differences between the different show contents based on the measure of Cosine Similarity. Shows that are highly similar on this measure are recommended to the user.
 

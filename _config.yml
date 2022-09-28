@@ -3,14 +3,15 @@ logo: "/images/aooi_profile_pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Investment Professional transitioning into a Data Scientist role
   <br><br>
-  ModularMaster Data Science, SUTD
-  <br>
-  M. Sc. Eng., The University of Melbourne
-  <br>
-  CFA Charterholdersss
+  <ul>
+    <li>ModularMaster Data Science, SUTD</li>
+    <li>M. Sc. Eng., The University of Melbourne</li>
+    <li>CFA Charterholdersss</li>
+  </ul>
   <br><br>
   <a href="https://www.linkedin.com/in/augustineooi/">LinkedIn</a>
-  <a href="mailto:name@rapidtables.com">Email</a>
+  <br>
+  <a href="mailto:augustineooi@gmail.com">Email</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

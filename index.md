@@ -53,7 +53,7 @@
 
 ### Streaming Entertainment Platforms
 
-[![](https://img.shields.io/badge/Tableau-See%20Viz-E97627?logo=Tableau)](https://github.com/augustineooi/portfolio_loan_default/blob/35cc81384382f357e7973a6702eb1088fb58a87c/Loan_Default_Prediction_v1.ipynb)
+[![](https://img.shields.io/badge/Tableau-See%20Viz-18BFFF?logo=Tableau)](https://public.tableau.com/app/profile/augustine.ooi/viz/Entertainment_Platform_Viz/Entertainment_Viz)
 
 - Data preparation include using Tableau Prep to amalgamate 5 different data tables, rationalizing movie genres and age ratings, as well as creating a new parameter to store the rationalized genres. The method enables different genres to be selected and calculated fields presented (e.g. IMDB ratings by a certain genre).
 

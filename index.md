@@ -49,6 +49,19 @@
 
 ---
 
+## Visualization
+
+### Streaming Entertainment Platforms
+
+[![](https://img.shields.io/badge/Tableau-See%20Viz-E97627?logo=Tableau)]
+(https://public.tableau.com/views/Entertainment_Platform_Viz/Entertainment_Viz?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+- Data preparation include using Tableau Prep to amalgamate 5 different data tables, rationalizing movie genres and age ratings, as well as creating a new parameter to store the rationalized genres. The method enables different genres to be selected and calculated fields presented (e.g. IMDB ratings by a certain genre).
+
+<img src="images/viz_entertainment_pic.png?raw=true"/>
+
+---
+
 ## Python Coding
 
 ### Vehicle Rent Program
